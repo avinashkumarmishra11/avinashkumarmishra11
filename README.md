@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avinashkumarmishra11
+- 👋 Hi, I’m Avinash
 - 👀 I’m interested in future of machine learning, NLP, AI and adventure sports.
 - 🌱 I’m currently studying Masters in Business analytics with specilization in Data Science.
 - 💞️ I have worked as Senior Data Programmer before my Masters.
